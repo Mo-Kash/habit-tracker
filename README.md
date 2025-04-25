@@ -1,4 +1,4 @@
-# habit_tracker
+# Habit Tracker
 
 ## Installation
 1. Clone the repository:
