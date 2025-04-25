@@ -1,16 +1,31 @@
 # habit_tracker
 
-A new Flutter project.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Mo-Kash/habit-tracker.git
+   cd habit-tracker
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
 
-## Getting Started
+## Features
+1. Add new habits that you want to practise daily
+2. Complete/Delete/Edit habits as per your convenience
+3. Track your progress with a heatmap calendar
+4. The more tasks you complete, the darker the green gets
+5. Change between light and dark mode
 
-This project is a starting point for a Flutter application.
+## App screenshots:
 
-A few resources to get you started if this is your first Flutter project:
+![habit_tracker_ss1](https://github.com/user-attachments/assets/f1f98012-9e2f-4030-a84f-a4177db29984)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![habit_tracker_ss2](https://github.com/user-attachments/assets/80f10635-283f-4b7d-ab7d-04d436dbf24b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![habit_tracker_ss3](https://github.com/user-attachments/assets/4d78a2da-f70b-4a05-b6a1-0de2995b8a6a)
